@@ -1,35 +1,35 @@
 {
-  "name": "LHBOS Closed Pre Release Canidiate",
+  "name": "BrewOS 17 RC",
   "short_name": "BrewOS",
-  "theme_color": "red",
+  "theme_color": "gold",
   "background_color": "silver",
-  "start_url": "/LHBOS/index.html",
+  "start_url": "https://xunlocknetworkenterprise.github.io/demo/index.html",
   "id": "demo-1",
   "display": "standalone",
   "scope": "./",
   "icons": [
      {
-        "src": "https://xunlocknetwork-srlc-channel.github.io/LHBOS-icon%20(1).png",
+        "src": "https://xunlocknetworkenterprise.github.io/LHBOS-icon.png",
         "type": "image/png",
         "sizes": "512x512"
      },
      {
-        "src": "https://xunlocknetwork-srlc-channel.github.io/LHBOS-icon%20(1).png",
+        "src": "https://xunlocknetworkenterprise.github.io/LHBOS-icon.png",
         "type": "image/png",
         "sizes": "512x512",
         "purpose": "maskable"
      }
    ],
-   "description": "Pre Release CLosed canidiate Edition Of Network",
+   "description": "Release canidiate Edition Of Network",
    "categories": ["games", "education"],
    "screenshots": [
      {
-        "src": "https://xunlocknetwork-srlc-channel.github.io/LHBOS-icon%20(1).png?1",
+        "src": "https://xunlocknetworkenterprise.github.io/LHBOS-icon.png?1",
         "type": "image/png",
         "sizes": "512x512"
      },
      {
-        "src": "https://xunlocknetwork-srlc-channel.github.io/LHBOS-icon%20(1).png?2",
+        "src": "https://xunlocknetworkenterprise.github.io/LHBOS-icon.png?2",
         "type": "image/png",
         "sizes": "512x512"
      }
